@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-imbudhiraja",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "eslint-config-imbudhiraja is a library for eslint-rules and stylelint-rules.",
   "main": "index.js",
   "keywords": [
