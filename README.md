@@ -1,6 +1,6 @@
 # eslint-config-imbudhiraja
 
-eslint-config-imbudhiraja is a library for eslint-rules and stylelint-rules.
+eslint-config-imbudhiraja is a library for eslint-rules.
 
 ## Installation
 
@@ -29,12 +29,6 @@ To use this library you need to extend
     "extends": "imbudhiraja/react"
   }
 
-  Update your .stylelintrc as below
-
-  module.exports = {
-    "extends": "imbudhiraja/stylelint"
-  }
-
 3. React-Native
   Update your .eslintrc as below
 
@@ -42,12 +36,6 @@ To use this library you need to extend
     "extends": "imbudhiraja/react-native"
   }
 
-4. Angular/React for style linting
-  Update your .stylelintrc as below
-
-  module.exports = {
-    "extends": "imbudhiraja/stylelint"
-  }
 ```
 
 ## Dependencies
@@ -58,15 +46,13 @@ To use this library you need to extend
 4.  eslint-config-airbnb
 5.  eslint-plugin-filenames
 6.  eslint-plugin-import
-7.  stylelint
-8.  prettier-stylelint
-9.  npm-run-all
-10. eslint-plugin-react
-11. eslint-plugin-html
-12. eslint-plugin-jsx-a11y
-13. stylelint-scss
-14. stylelint-order
-15. stylelint-config-standard
+8.  npm-run-all
+9. eslint-plugin-react
+10. eslint-plugin-html
+11. eslint-plugin-jsx-a11y
+12. stylelint-scss
+13. stylelint-order
+14. stylelint-config-standard
 
 ## Peer Dependencies
 
