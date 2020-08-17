@@ -47,12 +47,9 @@ To use this library you need to extend
 5.  eslint-plugin-filenames
 6.  eslint-plugin-import
 8.  npm-run-all
-9. eslint-plugin-react
+9.  eslint-plugin-react
 10. eslint-plugin-html
 11. eslint-plugin-jsx-a11y
-12. stylelint-scss
-13. stylelint-order
-14. stylelint-config-standard
 
 ## Peer Dependencies
 
