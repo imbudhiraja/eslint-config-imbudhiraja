@@ -4,7 +4,7 @@ module.exports = {
     "react-native/react-native": true
   },
   extends: "./react.js",
-  plugins: ["filenames", "html", "immutable", "react", "react-native"],
+  plugins: ["filenames", "html", "immutable", "prettier", "react", "react-native"],
   rules: {
     "react-native/no-unused-styles": "error",
     "react-native/split-platform-components": "error",

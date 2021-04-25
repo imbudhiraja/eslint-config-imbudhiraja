@@ -5,7 +5,7 @@ module.exports = {
     node: true
   },
   parser: "@babel/eslint-parser",
-  plugins: ["filenames", "immutable"],
+  plugins: ["filenames", "immutable", "prettier"],
   rules: {
     "array-bracket-spacing": "error",
     "arrow-parens": ["error", "always"],

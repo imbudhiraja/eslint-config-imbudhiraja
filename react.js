@@ -4,7 +4,7 @@ module.exports = {
     es6: true
   },
   extends: ["airbnb", "./index.js"],
-  plugins: ["filenames", "html", "immutable", "react"],
+  plugins: ["filenames", "html", "immutable", "prettier", "react"],
   rules: {
     "no-invalid-this": "off",
     "import/no-named-as-default": "off",
